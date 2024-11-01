@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+# title: About # uncomment to reveal in navbar
 permalink: /about/
 ---
 
