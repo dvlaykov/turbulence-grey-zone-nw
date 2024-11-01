@@ -34,7 +34,7 @@ email: G.Efstathiou@exeter.ac.uk
 
 # Build settings
 #
-theme: jekyll-theme-minimal
+theme: minima
 #plugins:
 #  - jekyll-feed
 
