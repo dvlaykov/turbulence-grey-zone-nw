@@ -11,15 +11,13 @@ Our numerical weather prediction models now achieve very fine resolutions, yet t
 
 This workshop will explore the challenges and recent advances in grey-zone turbulence modeling, bringing together researchers to share ideas, insights, and foster stimulating discussions. We will also emphasize interdisciplinary perspectives on the LES/RANS grey zone, drawing from fields beyond Meteorology, including Engineering Computational Fluid Dynamics (CFD) and broader Geophysical and Astrophysical modelling applications.
 
-**When*:** 23 - 25 June 2025
+**When:** 23 - 25 June 2025
 
-**Where*:** University of Exeter (Streatham Campus), Xfi Building, Henderson Lecture Theatre. 
+**Where:** University of Exeter (Streatham Campus), Xfi Building, Henderson Lecture Theatre.
 
-**Organisers*:**   [Georgios Efstathiou (University of Exeter)](empty_link),
+**Organisers:** Georgios Efstathiou (University of Exeter),
                 Dimitar G. Vlaykov (University of Exeter),
                 Paul Burns(UK Met Office)
 
-[test](logistics)
 
-
-[Abstract submission and Registration](abs_and_reg)
+## [Abstract submission and Registration Form](abs_and_reg)
