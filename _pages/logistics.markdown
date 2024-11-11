@@ -24,7 +24,7 @@ The University of Exeter suggests the following hotels for our visitors:
 
 7. [Queens Court Hotel](https://www.queenscourt-hotel.co.uk)
 
-We encourage attendees to arrange their accommodations early, as our workshop coincides with other events in the area. In addition to our recommendations, a variety of other hotels and Airbnb options are available in the area. 
+We encourage attendees to arrange their accommodations early, as our workshop coincides with other events in Exeter. In addition to the recommendations above a variety of other hotels and Airbnb options are available in the area. 
 
 # Travel
 
