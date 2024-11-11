@@ -2,7 +2,7 @@
 layout: page
 title: Accommodation & Travel
 permalink: /Logistics/
-nav_order: 1
+nav_order: 2
 ---
 
 
@@ -24,7 +24,7 @@ The University of Exeter suggests the following hotels for our visitors:
 
 7. [Queens Court Hotel](https://www.queenscourt-hotel.co.uk)
 
-We encourage attendees to arrange their accommodations early, as our workshop coincides with other events in Exeter. In addition to the recommendations above a variety of other hotels and Airbnb options are available in the area. 
+We encourage attendees to arrange their accommodations early, as our workshop coincides with other events in Exeter. In addition to the recommendations above a variety of other hotels and Airbnb options are available in the area.
 
 # Travel
 
@@ -32,7 +32,7 @@ Train: Exeter has a regular train connection with London Paddington (Heathrow Ex
 
 Airport: Exeter airport mainly serves tourist destinations but there are direct flights to/from Dublin all year round. Bristol airport (107 km ~ 66 miles away from Exeter) has a much wider network of international flights especially during summer.
 
-Bus: Direct bus to and from Bristol Airport and London Heathrow. 
+Bus: Direct bus to and from Bristol Airport and London Heathrow.
 
 Local Bus: University's Streatham campus is served by Line 4 University stagecoach bus (every 10 - 15 mins).
 

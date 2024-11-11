@@ -2,6 +2,7 @@
 layout: page
 title: Registration
 permalink: /abs_and_reg/
+nav_order: 1
 ---
 
 

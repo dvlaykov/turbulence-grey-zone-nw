@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ''
+title: 'List of Abstracts'
+exclude : true
 permalink: /schedule/abstracts/
 ---
 
