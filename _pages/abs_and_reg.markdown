@@ -7,9 +7,9 @@ permalink: /abs_and_reg/
 
 # Deadlines
 
-* Abstract submission TBA
-* Notification of abstract acceptance TBA
-* Registration deadline TBA
+* Abstract submission: 24 February 2025
+* Notification of abstract acceptance: TBA
+* Registration deadline: 28 March 2025
 
 
 # Registration
