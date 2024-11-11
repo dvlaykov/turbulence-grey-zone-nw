@@ -1,9 +1,41 @@
-<header class="site-header" role="banner">
+<style>
+  /* change site-header to banner style to limit background image to text column */
+  .site-header {
+      background-image: url('{{ "/assets/images/IMG_2327.HEIC" | relative_url }}');
+      background-size: cover;
+      background-position: center;
+      /* color: white; */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: auto;
+  }
 
+  /* Adjust padding and text alingment  -- kinda pointless for full-page background*/
+  .site-header a {
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    /* color: white; */
+  }
+
+  /* for mobile browsers -- numbers are untested */
+  @media (max-width: 768px) {
+    .banner {
+        height: 200px;
+    }
+  }
+</style>
+
+<header class="site-header" role="banner">
   <div class="wrapper">
+    <div class="banner">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | markdownify }}</a>
+   </div>
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
