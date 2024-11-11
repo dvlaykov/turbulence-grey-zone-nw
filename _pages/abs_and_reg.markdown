@@ -15,6 +15,6 @@ nav_order: 1
 
 # Registration
 
-[Abstract and Registration submission form](https://forms.office.com/e/Z6Mr44zVRG) -- Submit by TBD
+[Abstract and Registration submission form](https://forms.office.com/e/Z6Mr44zVRG)
 
 Please, save the receipt link so you can submit/edit abstract at a later time.
