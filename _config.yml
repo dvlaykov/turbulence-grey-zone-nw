@@ -33,6 +33,7 @@ email: G.Efstathiou@exeter.ac.uk
 # Build settings
 #
 theme: minima
+skin: solarized
 #plugins:
 #  - jekyll-feed
 
