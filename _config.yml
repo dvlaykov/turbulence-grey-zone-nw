@@ -33,7 +33,11 @@ email: G.Efstathiou@exeter.ac.uk
 # Build settings
 #
 theme: minima
-skin: solarized
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  skin: solarized
 #plugins:
 #  - jekyll-feed
 
