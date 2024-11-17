@@ -33,6 +33,7 @@ email: G.Efstathiou@exeter.ac.uk
 # Build settings
 #
 theme: minima
+markdown: kramdown
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
