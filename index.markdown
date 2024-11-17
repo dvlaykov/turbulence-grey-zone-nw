@@ -22,7 +22,7 @@ This workshop will explore the challenges and recent advances in grey-zone turbu
                 Paul Burns(UK Met Office)
 
 
-## [Abstract submission and Registration](abs_and_reg)
+## [Abstract submission and Registration](https://forms.office.com/e/Z6Mr44zVRG)
 
 **Abstract submission deadline:** 24 February 2025
 **Registration deadline:** 28 March 2025
