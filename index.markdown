@@ -17,9 +17,9 @@ This workshop will explore the challenges and recent advances in grey-zone turbu
 
 **Where:** University of Exeter (Streatham Campus), Xfi Building, Henderson Lecture Theatre.
 
-**Organisers:** Georgios Efstathiou (University of Exeter),
-                Dimitar G. Vlaykov (University of Exeter),
-                Paul Burns(UK Met Office)
+**Organisers:** [Georgios Efstathiou](https://experts.exeter.ac.uk/23647-georgios-efstathiou) (University of Exeter),
+                [Dimitar G. Vlaykov](https://experts.exeter.ac.uk/27895-dimitar-vlaykov) (University of Exeter),
+                [Paul Burns](https://www.metoffice.gov.uk/research/people/paul-burns)(UK Met Office)
 
 
 ## [Abstract submission and Registration](https://forms.office.com/e/Z6Mr44zVRG)
