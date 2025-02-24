@@ -8,7 +8,8 @@ nav_order: 2
 
 # Accommodation
 
-The University of Exeter suggests the following hotels for our visitors:
+Accommodation is available [on campus](https://bookings.eventexeter.com/) from £70 per night (including breakfast). 
+There are plenty of hotels in Exeter itself, as well. The University of Exeter suggests the following hotels for our visitors:
 
 1. [Mercure Rougemont](https://all.accor.com/hotel/A0H6/index.en.shtml)
 
@@ -24,7 +25,8 @@ The University of Exeter suggests the following hotels for our visitors:
 
 7. [Queens Court Hotel](https://www.queenscourt-hotel.co.uk)
 
-We encourage attendees to arrange their accommodations early, as our workshop coincides with other events in Exeter. In addition to the recommendations above a variety of other hotels and Airbnb options are available in the area.
+In addition to the recommendations above a variety of other hotels and Airbnb options are available in the area.
+We encourage attendees to **arrange their accommodations early**, as our workshop coincides with other events in Exeter, which will reduce availability.
 
 # Travel
 
