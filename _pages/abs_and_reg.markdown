@@ -8,7 +8,7 @@ nav_order: 1
 
 # Deadlines
 
-* Abstract submission: 14 March 2025
+* Abstract submission: 28 March 2025
 * Notification of abstract acceptance: TBA
 * Registration deadline: 28 March 2025
 
